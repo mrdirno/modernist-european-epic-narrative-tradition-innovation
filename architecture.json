@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-european-epic-narrative-tradition-innovation",
+  "title": "The Vertigo of the Ordinary",
+  "tagline": "In a world clinging to tradition on the brink of war, a poet and his industrialist brother clash over the very nature of reality, perception, and the knives we choose to wield.",
+  "target_words": 71265,
+  "actual_words": 71265,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Perception vs. Reality",
+    "The Weight of Inheritance",
+    "Artistry in a Material World",
+    "The Precarious Edge of History"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Grain of Imperfect Glass",
+      "words": 5938
+    },
+    {
+      "ch": 2,
+      "title": "A Luxurious Cell of Soot",
+      "words": 5938
+    },
+    {
+      "ch": 3,
+      "title": "A Dinner Reflected to Infinity",
+      "words": 5938
+    },
+    {
+      "ch": 4,
+      "title": "The Theological Flatness of Sky",
+      "words": 5938
+    },
+    {
+      "ch": 5,
+      "title": "The Frayed Edge of Land",
+      "words": 5938
+    },
+    {
+      "ch": 6,
+      "title": "A Cataract of Dust",
+      "words": 5938
+    },
+    {
+      "ch": 7,
+      "title": "A Needle in a Fraying Seam",
+      "words": 5938
+    },
+    {
+      "ch": 8,
+      "title": "The Swallowing Dark",
+      "words": 5938
+    },
+    {
+      "ch": 9,
+      "title": "The Vertigo of the Ordinary",
+      "words": 5938
+    },
+    {
+      "ch": 10,
+      "title": "The Blade of White Light",
+      "words": 5938
+    },
+    {
+      "ch": 11,
+      "title": "A Mosaic of Expectant Faces",
+      "words": 5938
+    },
+    {
+      "ch": 12,
+      "title": "The Conditioned Silence of Motion",
+      "words": 5938
+    }
+  ]
+}
